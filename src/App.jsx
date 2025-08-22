@@ -1,4 +1,5 @@
 import ImcCalc from './components/imcCalc'
+import Button from './components/Button'
 import './App.css'
 
 
