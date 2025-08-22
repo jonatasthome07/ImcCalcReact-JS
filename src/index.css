@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Arial";
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    min-height: 100vh;
+    color: #fff;
+    background-color: #090e22;
+}
