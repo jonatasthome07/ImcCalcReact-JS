@@ -1,7 +1,7 @@
 const ImcTable = () =>{
     return (
         <div>
-            <h1>Oi!</h1>
+            <h1>IMC Table</h1>
         </div>
     )
 }
