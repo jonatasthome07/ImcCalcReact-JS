@@ -5,6 +5,7 @@ const data = [
     classification: "Menor que 18,5",
     info: "Magreza",
     obesity: "0",
+    infoClass: "high"
   },
   {
     min: 18.5,
@@ -12,7 +13,7 @@ const data = [
     classification: "Entre 18,5 e 24,9",
     info: "Normal",
     obesity: "0",
-    infoClass: "medium"
+    infoClass: "good"
   },
   {
     min: 25,
@@ -20,7 +21,7 @@ const data = [
     classification: "Entre 25,0 e 29,9",
     info: "Sobrepeso",
     obesity: "I",
-    infoClass: "good"
+    infoClass: "low"
   },
   {
     min: 30,
